@@ -7,3 +7,4 @@ numexpr==2.8.7
 chromadb==0.4.17
 streamlit==1.29.0
 graphviz==0.20.1
+whisper
